@@ -1,0 +1,6 @@
+[package]
+name = "design_neighbor_sum_service"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
